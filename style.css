@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Mono:wght@300&display=swap');
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-image: url('./images/CompetentWeirdAstrangiacoral-size_restricted.gif');
+    height: max-content;
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-size: 100% 100%;
+}
